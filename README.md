@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0066-plus-one) |
 ## Recursion
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Bit Manipulation
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Counting
 |  |
