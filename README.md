@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3429-special-array-i](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3429-special-array-i) |
+| [3620-network-recovery-pathways](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0005-longest-palindromic-substring) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [3620-network-recovery-pathways](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Sliding Window
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
 | ------- |
@@ -155,8 +159,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3620-network-recovery-pathways](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
+## Topological Sort
+|  |
+| ------- |
+| [3620-network-recovery-pathways](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 <!---LeetCode Topics End-->
