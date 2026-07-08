@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
 |  |
 | ------- |
