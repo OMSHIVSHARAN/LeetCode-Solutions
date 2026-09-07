@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0283-move-zeroes) |
