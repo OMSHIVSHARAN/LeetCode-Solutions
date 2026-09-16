@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0704-binary-search](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1288-remove-covered-intervals](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0704-binary-search](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
