@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Counting
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [1288-remove-covered-intervals](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Tree
 |  |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
