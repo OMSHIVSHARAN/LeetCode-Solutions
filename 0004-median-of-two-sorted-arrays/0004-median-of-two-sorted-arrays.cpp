@@ -29,6 +29,6 @@ public:
         }
     }
     
-    throw invalid_argument("Input arrays are not sorted or invalid.");
+    throw invalid_argument("Nothing");
 }
 };
