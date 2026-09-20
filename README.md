@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0410-split-array-largest-sum](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0485-max-consecutive-ones](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0704-binary-search](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0410-split-array-largest-sum](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1301-number-of-paths-with-max-score](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Two Pointers
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0410-split-array-largest-sum](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -269,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
