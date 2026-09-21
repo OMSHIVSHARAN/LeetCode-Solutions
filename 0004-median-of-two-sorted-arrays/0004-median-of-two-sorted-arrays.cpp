@@ -1,34 +1,35 @@
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
-     if (nums1.size() > nums2.size()) swap(nums1, nums2);
-    
-    int m = nums1.size(), n = nums2.size();
-    int totalLeft = (m + n + 1) / 2;
-    int low = 0, high = m;
-    
-    while (low <= high) {
-        int i = (low + high) / 2;
-        int j = totalLeft - i;
-        
-        int nums1LeftMax = (i == 0) ? INT_MIN : nums1[i - 1];
-        int nums1RightMin = (i == m) ? INT_MAX : nums1[i];
-        int nums2LeftMax = (j == 0) ? INT_MIN : nums2[j - 1];
-        int nums2RightMin = (j == n) ? INT_MAX : nums2[j];
-        
-        if (nums1LeftMax <= nums2RightMin && nums2LeftMax <= nums1RightMin) {
-            if ((m + n) % 2 == 0) {
-                return (max(nums1LeftMax, nums2LeftMax) + min(nums1RightMin, nums2RightMin)) / 2.0;
-            } else {
-                return max(nums1LeftMax, nums2LeftMax);
-            }
-        } else if (nums1LeftMax > nums2RightMin) {
-            high = i - 1;
-        } else {
-            low = i + 1;
+        if (nums1.size() > nums2.size()) {
+            return findMedianSortedArrays(nums2, nums1);
         }
+
+        int len1 = nums1.size(), len2 = nums2.size();
+        int left = 0, right = len1;
+
+        while (left <= right) {
+            int part1 = (left + right) / 2;
+            int part2 = (len1 + len2 + 1) / 2 - part1;
+
+            int maxLeft1 = (part1 == 0) ? INT_MIN : nums1[part1 - 1];
+            int minRight1 = (part1 == len1) ? INT_MAX : nums1[part1];
+            int maxLeft2 = (part2 == 0) ? INT_MIN : nums2[part2 - 1];
+            int minRight2 = (part2 == len2) ? INT_MAX : nums2[part2];
+
+            if (maxLeft1 <= minRight2 && maxLeft2 <= minRight1) {
+                if ((len1 + len2) % 2 == 0) {
+                    return (max(maxLeft1, maxLeft2) + min(minRight1, minRight2)) / 2.0;
+                } else {
+                    return max(maxLeft1, maxLeft2);
+                }
+            } else if (maxLeft1 > minRight2) {
+                right = part1 - 1;
+            } else {
+                left = part1 + 1;
+            }
+        }
+
+        return 0.0;        
     }
-    
-    throw invalid_argument("Nothing");
-}
 };
