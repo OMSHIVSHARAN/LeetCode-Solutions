@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [3524-find-x-value-of-array-i](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3429-special-array-i](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3429-special-array-i) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3524-find-x-value-of-array-i](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1301-number-of-paths-with-max-score](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Sliding Window
