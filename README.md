@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3524-find-x-value-of-array-i](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0410-split-array-largest-sum](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0704-binary-search) |
@@ -318,4 +320,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
