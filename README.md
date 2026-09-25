@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [1096-brace-expansion-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [3498-reverse-degree-of-a-string](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [1096-brace-expansion-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+| [1096-brace-expansion-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Queue
 |  |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -331,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0069-sqrtx) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
