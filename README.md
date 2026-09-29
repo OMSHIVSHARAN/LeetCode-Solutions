@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2643-row-with-maximum-ones](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [1301-number-of-paths-with-max-score](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2643-row-with-maximum-ones](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -356,4 +359,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
