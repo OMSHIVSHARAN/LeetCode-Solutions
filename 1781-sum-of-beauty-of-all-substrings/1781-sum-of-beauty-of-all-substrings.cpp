@@ -6,17 +6,25 @@ public:
         int sumOfBeauty = 0;
 
         for ( int i=0; i<n; i++ ) {
+
+            vector<int> freq(26, 0);
+
             for ( int j=i; j<n; j++ ) {
-                vector<int> freq(26, 0);
-                for ( int k=i; k<=j; k++ ) {
-                    freq[s[k] - 'a']++;
-                }
+
+                freq[s[j] - 'a']++;
+
                 int maxi = INT_MIN, mini = INT_MAX;
-                for ( int i=0; i<26; i++ ) {
-                    if (freq[i] == 0 ) continue; 
-                    maxi = max(maxi, freq[i]);
-                    mini = min(mini, freq[i]);
+
+                for ( int ch=0; ch<26; ch++ ) {
+
+                    int diff = freq[ch];
+
+                    if ( diff > 0 ) {
+                        maxi = max ( maxi, diff );
+                        mini = min ( mini, diff );
+                    }
                 }
+
                 sumOfBeauty += (maxi - mini);
             }
         }
