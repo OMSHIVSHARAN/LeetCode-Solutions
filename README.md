@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1922-count-good-numbers](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0050-powx-n) |
+| [1922-count-good-numbers](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
