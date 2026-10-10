@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2149-rearrange-array-elements-by-sign](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2643-row-with-maximum-ones](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Tree
 |  |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -354,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
 |  |
