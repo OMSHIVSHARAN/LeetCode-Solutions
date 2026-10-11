@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2303-calculate-amount-paid-in-taxes](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2643-row-with-maximum-ones](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2643-row-with-maximum-ones) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3429-special-array-i](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3429-special-array-i) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1291-sequential-digits) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Number Theory
 |  |
 | ------- |
