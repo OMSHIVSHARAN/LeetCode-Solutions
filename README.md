@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1901-find-a-peak-element-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2303-calculate-amount-paid-in-taxes](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2303-calculate-amount-paid-in-taxes) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1539-kth-missing-positive-number) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1901-find-a-peak-element-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1901-find-a-peak-element-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
 | [1288-remove-covered-intervals](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
