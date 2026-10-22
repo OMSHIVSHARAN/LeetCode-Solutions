@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-network-recovery-pathways](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3886-sum-of-sortable-integers) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4061-minimum-queen-moves-to-reach-target](https://github.com/OMSHIVSHARAN/LeetCode-Solutions/tree/master/4061-minimum-queen-moves-to-reach-target) |
 ## Hash Table
 |  |
